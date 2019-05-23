@@ -3,5 +3,4 @@
     "build": "babel --compact false --out-dir dist/ src/"
     "build": "tsc -p ."
   }
-  ...
 }
