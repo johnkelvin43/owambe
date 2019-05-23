@@ -1,9 +1,9 @@
 {
-  "name": "Owambe",
+  "name": "tabris",
   "version": "3.0.0",
-  "description": "Owambe Fashion World",
+  "description": "Mobile apps with native UIs in JavaScript",
   "keywords": [
-    "fashion",
+    "native",
     "mobile",
     "ios",
     "android"
