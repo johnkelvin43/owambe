@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="my.first.app" version="1.0.0">
-  <name>HelloWorld</name>
+<widget id="owambe.fashion.app" version="1.0.0">
+  <name>Owambe</name>
   <description>
-    A sample Tabris.js application.
+    Owambe fashion.
   </description>
-  <author email="dev@tabrisjs.com" href="https://tabrisjs.com">
-    Tabris.js Team
+  <author email="johnkelvingf12@gmail.com" href="http://www.owambestyles.com">
+    Owambe Team
   </author>
 </widget>
