@@ -1,6 +1,5 @@
 {
-  "scripts": {
-    "build": "babel --compact false --out-dir dist/ src/"
-    "build": "tsc -p ."
-  }
+  "name": "Owambe",
+  "version": "1.0",
+  "main": "app.js"
 }
